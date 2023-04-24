@@ -14,7 +14,7 @@ jQuery(document).ready(function($){
         $( 'html:not(:animated),body:not(:animated)' ).animate({ scrollTop: 0}, speed );
     });
 
-    //���������
+    //
     function show_scrollTop(){
         ( $(window).scrollTop() > 330 ) ? $scrollTop.fadeIn(700) : $scrollTop.fadeOut(700);
     }
