@@ -119,7 +119,7 @@ right:50px;
 }
 .footer{
   background-color: #000;
-  position: fixed;
+  position: sticky;
   bottom: 0;
   height: 70px;
   display: flex;
