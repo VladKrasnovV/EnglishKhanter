@@ -121,6 +121,9 @@ right:50px;
   background-color: #000;
   height: 70px;
   display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 .footer-author{
   font-size: 24px;
