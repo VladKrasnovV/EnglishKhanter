@@ -118,12 +118,9 @@ right:50px;
   margin-bottom: 25px;
 }
 .footer{
-  background-color: #000;
+   background-color: #000;
   height: 70px;
   display: flex;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
 }
 .footer-author{
   font-size: 24px;
